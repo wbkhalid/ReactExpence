@@ -1,6 +1,6 @@
 import Chart from './../Chart/Chart'
 
-const ExpenseChart = (props) => {
+const ExpenseChart = props => {
 
     const chartDataPoints = [
         { label: 'Jan', value: 0 },
